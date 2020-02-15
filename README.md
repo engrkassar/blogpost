@@ -1,7 +1,9 @@
 # AirBNB Seattle Data
 <br/><br/>
 This project is to demonstrate the understanding of data science process and to apply it real data set.<br/>
-The data set I chose is provided by AirBNB, the house sharing company for the West Coast City of Seattle.<br/>
+The data set I chose is provided by AirBNB, the house sharing company for the West Coast City of Seattle,<br/>
+Because it is a unique data set that combines business, customer and geographic data.<br/>
+I will follow CRISP-DM process in the analysis of this data set.<br/>
 <br/>
 The data is divided in three files:<br/>
 <br/>
@@ -14,3 +16,9 @@ I will do some data exploration and visualizations to answer the following quest
   Q2: Where listings are concentrated?<br/>  
   Q3: How much the customer is paying to stay in Seattle with AirBNB?<br/>
   Q4: What are the average prices for each neighborhood?<br/>
+<br/><br/>
+## Files:
+<br/>
+All the analysis done in Jupyter Notebook file written in python: (blog_post.ipynb).<br/>
+HTML report (blog_post.html) is included as well.<br/>
+
