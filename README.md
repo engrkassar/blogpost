@@ -17,6 +17,8 @@ The data is divided in three files:<br/>
 * calendar.csv - containing listing prices and data about availability<br/>
 * listings.csv - the main data file, which contains detailed features about each listing<br/>
 * reviews.csv - records for listing reviews<br/>
+The analysis is divided in two files:<br/>
+<br/>
 * blog_post.ipynb - All the analysis done in this Jupyter Notebook file written in python<br/>
 * blog_post.html - HTML report of the Notebook file<br/>
 <br/><br/>
