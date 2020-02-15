@@ -13,7 +13,9 @@ I will do some data exploration and visualizations to answer the following quest
   Q4: What are the average prices for each neighborhood?<br/>
 <br/>
 <br/>
+
 # Files:
+
 <br/>
 The data is divided in three files:<br/>
 <br/>
@@ -27,6 +29,7 @@ The analysis is divided in two files:<br/>
 * blog_post.html - HTML report of the Notebook file<br/>
 <br/>
 <br/>
+
 # Results:
 
 <br/>
