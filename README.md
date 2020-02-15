@@ -34,3 +34,11 @@ The analysis is divided in two files:<br/>
 
 <br/>
 All results are in the HTML report (blog_post.html).<br/>
+<br/>
+<br/>
+
+# Thanks:
+
+<br/>
+Special thanks to Udacity, AirBNB and Kaggle for the opportunity.<br/>
+<br/>
